@@ -1,0 +1,84 @@
+<!--this is c0r3h4ck learning path and resorce for new student how to learn web dev 
+you can download this file and learn web dev -->
+
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>50-day-web-dev-with-c0r3h4ck</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+
+
+  <h1>DATE 8 May 2021 </h1> </br>
+
+  <h2>Q.1 who web work?</h2>
+   <a href="https://codesensei.medium.com/http-request-and-response-and-how-web-applications-work-76780d4cb14c">http request and response</a>  </br>
+  <a href="https://www.codecademy.com/articles/http-requests">http_requests</a>
+
+<h2> # HTML </h2>
+
+<h2>The &lt;!DOCTYPE&gt; Declaration :</h2> 
+    <p>The DOCTYPE Declaration represents the document type, and helps browsers to display web pages correctly. </br>
+- the DOCTYPE is not case sensitive </br>
+- The DOCTYPE Declarationfor HTML5 is:
+    </p>
+    <h5>Example</h5>
+    &lt;!DOCTYPE html&gt; 
+
+<h2> HTML Heading Tags:</h2>
+<p>The HTML headings are defined with the &lt;h1&gt; to &lt;h6&gt; Tags.</p>
+
+  Example: </br>
+    &lt;h1&gt;This is heading 1&lt;/h1&gt; </br>
+    &lt;h2&gt;This is heading 2&lt;/h2&gt; </br>
+    &lt;h3&gt;This is heading 3&lt;/h3&gt; </br>
+    &lt;h4&gt;This is heading 4&lt;/h4&gt; </br>
+    &lt;h5&gt;This is heading 5&lt;/h5&gt; </br>
+    &lt;h6&gt;This is heading 6&lt;/h6&gt; </br>
+</br>
+
+<h2> Paragraphs </h2>
+ <p>HTML Paragraphs are defined with the &lt;p&gt; Tags.</p>
+
+  Example: </br>
+    &lt;p&gt; This is a Paragraph. &lt;/p&gt; </br>
+    &lt;p&gt; This is another Paragraph &lt;/p&gt; </br>
+
+
+<h2> HTML Links: </h2>
+<p> HTML Links are defined with the &lt;a&gt; tag. </br> 
+  The link's destination is specified in the href attribute. </br>
+  The attributes are used to provide additional information about HTML elements.
+</p>
+
+  Example: </br>
+    &lt;a&gt; href="path_of_the_file / link_of_any_site">This is a link&lt;/a&gt;
+</br>
+
+<h2>HTML Images: </h2>
+
+<p>HTML Images are defined with the &lt;img&gt; tag.</br>
+  The source file (src), alternative text (alt), width, and height are provided as attributes:
+</p>
+  Example: </br>
+    &lt;img src="path_of_the_pic.jpg" alt="about_the_pic" width="104" height="142"&gt;
+
+
+
+
+
+
+
+
+</br>
+</br>
+</br>
+&copy; 2021-22 c0r3h4ck
+  </body>
+</html>
